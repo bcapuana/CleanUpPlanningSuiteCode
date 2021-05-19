@@ -12,3 +12,11 @@ To save the new file, use File->Save.
 
 ![Main Window](./Images/MainWindow.png?raw=true)
 
+### Attribution
+CleanUpPlanningSuiteCode uses Mahapps.Metro and AvalonEdit
+
+* [MahApps.Metro - Nuget](https://www.nuget.org/packages/MahApps.Metro/)
+* [MahApps - Home](https://mahapps.com/)
+
+* [AvalonEdit - Nuget](https://www.nuget.org/packages/AvalonEdit)
+* [AvalonEdit - Home](http://avalonedit.net/)
