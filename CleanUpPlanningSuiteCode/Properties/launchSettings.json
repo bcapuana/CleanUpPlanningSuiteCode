@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CleanUpPlanningSuiteCode": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Not-Backed-Up\\Wenzel\\Westinghouse\\6680E95\\6680E95_ALL_SLOTS_r.dmi\""
+    }
+  }
+}

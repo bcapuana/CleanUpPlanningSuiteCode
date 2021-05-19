@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanUpPlanningSuiteCode", "CleanUpPlanningSuiteCode\CleanUpPlanningSuiteCode.csproj", "{17C806ED-8331-41E1-B5B1-89991AF7477E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanUpPlanningSuiteCode2", "CleanUpPlanningSuiteCode2\CleanUpPlanningSuiteCode2.csproj", "{521DB72C-2FBC-4DE0-917A-CB2E5C7B5060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C806ED-8331-41E1-B5B1-89991AF7477E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C806ED-8331-41E1-B5B1-89991AF7477E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C806ED-8331-41E1-B5B1-89991AF7477E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521DB72C-2FBC-4DE0-917A-CB2E5C7B5060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521DB72C-2FBC-4DE0-917A-CB2E5C7B5060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521DB72C-2FBC-4DE0-917A-CB2E5C7B5060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521DB72C-2FBC-4DE0-917A-CB2E5C7B5060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D88009D-A97E-4A85-AB75-60C824632689}
+	EndGlobalSection
+EndGlobal
